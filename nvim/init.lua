@@ -1,0 +1,5 @@
+require("luiguit.core.options")
+require("luiguit.core.keymaps")
+--require("luiguit.core.colorscheme")
+--require("luiguit.core")
+require("luiguit.lazy")
