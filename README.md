@@ -1,5 +1,8 @@
 # nvim-environment-files
 
+To use the nvim environment files, place your nvim file into ~/.config/
+
+
 :set number
 
 Movement
